@@ -81,3 +81,9 @@ Potential future improvements include:
 This project is intended as a machine learning and Natural Language Processing classification project.
 
 The model should not be used as a diagnostic or clinical tool or to determine whether an individual is suicidal. Model predictions should be treated as classification outputs that may require appropriate human review.
+
+## Confusion Matrix
+
+The confusion matrix below shows the model's correct and incorrect predictions on the test dataset.
+
+![Confusion Matrix](confusion_matrix.png)
